@@ -1,26 +1,63 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: webworldview # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Checking For You
+    url: https://www.checkingforyou.com
+  - name: EasyTastyKeto
+    url: https://www.easytastyketo.com
+  - name: EasyTastyKeto Recipes
+    url: https://recipes.easytastyketo.com
+  - name: OGS
+    url: https://organicgardeningsecrets.net
+  - name:  Sharda Bakers Dog World
+    url: https://www.shardabakersdogworld.com    
+  - name: Web World View
+    url: https://www.webworldview.com    
+  - name: Christian T Land
+    url: https://christiantland.com
+  - name: Learning Goo
+    url: https://www.learninggoo.com
+  - name:  Prime Life Women
+    url: https://primelifewomen.com
+  - name: The Good Cyclist
+    url: https://thegoodcyclist.iwview.com
+  - name: Bible Bunny
+    url: www.biblebunny.com
+  - name: Essori
+    url: https://www.essori.com
+  - name: Jeffs Corner
+    url: https://jeffscorner.com
+  - name: Jeff with Susan
+    url: https://www.jeffwithsusan.com
+  - name: MindyBodyHealth and Fitness
+    url: www.mindbodyhealthandfitness.com
+  - name: New CTLAND
+    url: https://new.christiantland.com
+  - name: Test OGS
+    url: https://test.organicgardeningsecrets.net
+    
+ - name: Google
+   url: https://www.google.com
+# - name: Wikipedia
+#   url: https://en.wikipedia.org
+# - name: Hacker News
+#   url: https://news.ycombinator.com
+# - name: Test Broken Site
+#   url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  # baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/webworldview/upptime.js.org/master/static/img/icon.svg
+  name: WWVuptime
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**WWWV Upptime** run by OpenSource Uptime."
+  introMessage: Web world view Uptime page.
   navbar:
     - title: Status
       href: /
