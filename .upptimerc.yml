@@ -37,9 +37,8 @@ sites:
     url: https://new.christiantland.com
   - name: Test OGS
     url: https://test.organicgardeningsecrets.net
-    
- - name: Google
-   url: https://www.google.com
+  - name: Google
+    url: https://www.google.com
 # - name: Wikipedia
 #   url: https://en.wikipedia.org
 # - name: Hacker News
