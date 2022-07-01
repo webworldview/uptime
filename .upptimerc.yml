@@ -55,6 +55,8 @@ sites:
     url: https://test.organicgardeningsecrets.net
   - name: Google
     url: https://www.google.com
+  - name: Member Genesis
+    url: https://www.membergenesis.com
 # - name: Wikipedia
 #   url: https://en.wikipedia.org
 # - name: Hacker News
