@@ -59,10 +59,10 @@ sites:
     url: https://www.membergenesis.com
   - name: DragonBoat Times
     url: https://www.dragonboattimes.com
-  - name: $TestPlayDump
+  - name: TestPlayDump
     url: https://www.testplaydump.com   
   - name: MySnazzyGear Placeholder
-    url: $https://www.mysnazzygear.com
+    url: https://www.mysnazzygear.com
 # - name: Wikipedia
 #   url: https://en.wikipedia.org
 # - name: Hacker News
