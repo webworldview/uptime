@@ -187,11 +187,11 @@
     "icon": "https://favicons.githubusercontent.com/recipes.easytastyketo.com",
     "slug": "easy-tasty-keto-recipes",
     "status": "down",
-    "uptime": "68.06%",
+    "uptime": "68.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.06%",
-    "uptimeMonth": "68.06%",
-    "uptimeYear": "68.06%",
+    "uptimeWeek": "68.07%",
+    "uptimeMonth": "68.07%",
+    "uptimeYear": "68.07%",
     "time": 3031,
     "timeDay": 118,
     "timeWeek": 3031,
@@ -505,19 +505,17 @@
     "icon": "https://favicons.githubusercontent.com/www.membergenesis.com",
     "slug": "member-genesis",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4132,
     "timeDay": 4132,
     "timeWeek": 4132,
     "timeMonth": 4132,
     "timeYear": 4132,
-    "dailyMinutesDown": {
-      "2022-07-01": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DragonBoat Times",
@@ -561,18 +559,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-snazzy-gear-placeholder",
     "status": "down",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 1
     }
   }
 ]
