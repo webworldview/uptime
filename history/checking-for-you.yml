@@ -1,7 +1,7 @@
 url: https://www.checkingforyou.com
-status: up
-code: 200
-responseTime: 80
-lastUpdated: 2022-12-23T23:15:38.887Z
+status: down
+code: 503
+responseTime: 7064
+lastUpdated: 2022-12-24T20:26:14.863Z
 startTime: Thu Jun 30 2022 00:20:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
