@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-02-26": 255,
+      "2023-02-26": 275,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -663,7 +663,7 @@
     "timeMonth": 227,
     "timeYear": 2478,
     "dailyMinutesDown": {
-      "2023-02-26": 255,
+      "2023-02-26": 276,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-02-26": 255,
+      "2023-02-26": 276,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -927,8 +927,8 @@
     "status": "down",
     "uptime": "86.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.27%",
-    "uptimeMonth": "84.37%",
+    "uptimeWeek": "32.06%",
+    "uptimeMonth": "84.33%",
     "uptimeYear": "86.10%",
     "time": 3027,
     "timeDay": 0,
@@ -936,7 +936,7 @@
     "timeMonth": 1783,
     "timeYear": 3027,
     "dailyMinutesDown": {
-      "2023-02-26": 255,
+      "2023-02-26": 276,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -990,7 +990,7 @@
     "uptime": "68.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "60.38%",
+    "uptimeMonth": "60.42%",
     "uptimeYear": "68.18%",
     "time": 930,
     "timeDay": 970,
@@ -1308,11 +1308,11 @@
     "url": "https://www.testplaydump.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.testplaydump.com.ico",
     "slug": "test-play-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "56.55%",
-    "uptimeWeek": "63.71%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "57.55%",
+    "uptimeWeek": "63.86%",
+    "uptimeMonth": "91.68%",
     "uptimeYear": "98.94%",
     "time": 318,
     "timeDay": 310,
@@ -1320,13 +1320,13 @@
     "timeMonth": 295,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-02-26": 156,
+      "2023-02-26": 157,
       "2023-02-25": 692,
       "2023-02-24": 552,
       "2023-02-23": 750,
       "2023-02-22": 598,
       "2023-02-21": 520,
-      "2023-02-20": 387
+      "2023-02-20": 371
     }
   },
   {
