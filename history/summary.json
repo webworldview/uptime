@@ -14,7 +14,7 @@
     "timeDay": 1693,
     "timeWeek": 2217,
     "timeMonth": 3854,
-    "timeYear": 2117,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2023-06-20": 20,
       "2023-06-14": 41,
@@ -89,7 +89,7 @@
     "timeDay": 243,
     "timeWeek": 311,
     "timeMonth": 304,
-    "timeYear": 348,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2022-11-06": 22
     }
@@ -127,7 +127,7 @@
     "timeDay": 228,
     "timeWeek": 265,
     "timeMonth": 292,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2023-05-30": 18,
       "2022-09-27": 23
@@ -171,9 +171,9 @@
     "timeDay": 624,
     "timeWeek": 260,
     "timeMonth": 189,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-08-24": 1396,
+      "2023-08-24": 1403,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -456,7 +456,7 @@
     "timeDay": 222,
     "timeWeek": 180,
     "timeMonth": 146,
-    "timeYear": 213,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2022-12-01": 20
     }
@@ -476,7 +476,7 @@
     "timeDay": 381,
     "timeWeek": 435,
     "timeMonth": 371,
-    "timeYear": 429,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2022-12-16": 17
     }
@@ -551,7 +551,7 @@
     "timeDay": 328,
     "timeWeek": 308,
     "timeMonth": 367,
-    "timeYear": 422,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2022-09-27": 61
     }
@@ -571,7 +571,7 @@
     "timeDay": 5751,
     "timeWeek": 4927,
     "timeMonth": 4041,
-    "timeYear": 4911,
+    "timeYear": 4914,
     "dailyMinutesDown": {
       "2023-08-12": 31,
       "2023-07-08": 23,
@@ -620,7 +620,7 @@
     "timeDay": 222,
     "timeWeek": 202,
     "timeMonth": 1132,
-    "timeYear": 1106,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2023-08-12": 17,
       "2022-12-01": 15
@@ -641,7 +641,7 @@
     "timeDay": 348,
     "timeWeek": 331,
     "timeMonth": 367,
-    "timeYear": 1796,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2023-04-16": 317,
       "2023-04-15": 1440,
@@ -700,19 +700,19 @@
     "url": "https://thegoodcyclist.iwview.com",
     "icon": "https://icons.duckduckgo.com/ip3/thegoodcyclist.iwview.com.ico",
     "slug": "the-good-cyclist",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "49.42%",
-    "uptimeWeek": "67.75%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "49.18%",
+    "uptimeWeek": "67.70%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
-    "time": 2919,
-    "timeDay": 1916,
-    "timeWeek": 2037,
-    "timeMonth": 1953,
+    "time": 2920,
+    "timeDay": 1985,
+    "timeWeek": 2038,
+    "timeMonth": 1956,
     "timeYear": 2908,
     "dailyMinutesDown": {
-      "2023-08-24": 703,
+      "2023-08-24": 708,
       "2023-08-23": 652,
       "2023-08-22": 605,
       "2023-08-21": 489,
@@ -735,9 +735,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1858,
+    "timeYear": 1865,
     "dailyMinutesDown": {
-      "2023-08-24": 1397,
+      "2023-08-24": 1403,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -1080,7 +1080,7 @@
     "timeDay": 1484,
     "timeWeek": 1644,
     "timeMonth": 1407,
-    "timeYear": 1071,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-08-08": 27,
       "2023-07-13": 29,
@@ -1198,13 +1198,13 @@
     "uptime": "52.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.07%",
+    "uptimeMonth": "40.09%",
     "uptimeYear": "48.43%",
     "time": 2017,
     "timeDay": 739,
     "timeWeek": 741,
     "timeMonth": 1006,
-    "timeYear": 1313,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2023-08-16": 457,
       "2023-08-15": 451,
@@ -1409,7 +1409,7 @@
     "slug": "jeff-with-susan",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "56.11%",
+    "uptimeDay": "56.58%",
     "uptimeWeek": "64.23%",
     "uptimeMonth": "91.77%",
     "uptimeYear": "99.31%",
@@ -1417,7 +1417,7 @@
     "timeDay": 1675,
     "timeWeek": 1629,
     "timeMonth": 1608,
-    "timeYear": 1406,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2023-08-24": 608,
       "2023-08-23": 860,
@@ -1473,7 +1473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.organicgardeningsecrets.net.ico",
     "slug": "test-ogs",
     "status": "down",
-    "uptime": "68.88%",
+    "uptime": "68.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1482,9 +1482,9 @@
     "timeDay": 324,
     "timeWeek": 281,
     "timeMonth": 312,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-08-24": 1397,
+      "2023-08-24": 1404,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -1644,15 +1644,15 @@
     "uptime": "90.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.01%",
-    "uptimeYear": "89.28%",
+    "uptimeMonth": "65.99%",
+    "uptimeYear": "89.27%",
     "time": 4654,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2799,
-    "timeYear": 5043,
+    "timeYear": 5038,
     "dailyMinutesDown": {
-      "2023-08-24": 1397,
+      "2023-08-24": 1404,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -1748,17 +1748,17 @@
     "slug": "dragon-boat-times",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "17.70%",
-    "uptimeWeek": "50.94%",
-    "uptimeMonth": "88.71%",
+    "uptimeDay": "17.24%",
+    "uptimeWeek": "50.88%",
+    "uptimeMonth": "88.70%",
     "uptimeYear": "99.06%",
     "time": 2694,
     "timeDay": 2404,
     "timeWeek": 2553,
     "timeMonth": 2613,
-    "timeYear": 2523,
+    "timeYear": 2525,
     "dailyMinutesDown": {
-      "2023-08-24": 1156,
+      "2023-08-24": 1163,
       "2023-08-23": 918,
       "2023-08-22": 1048,
       "2023-08-21": 685,
@@ -1783,7 +1783,7 @@
     "timeMonth": 249,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-08-24": 1397,
+      "2023-08-24": 1404,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
