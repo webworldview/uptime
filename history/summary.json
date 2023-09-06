@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 4651,
     "timeMonth": 3762,
-    "timeYear": 2236,
+    "timeYear": 2239,
     "dailyMinutesDown": {
       "2023-09-05": 16,
       "2023-09-04": 19,
@@ -39,7 +39,7 @@
     "timeDay": 0,
     "timeWeek": 1373,
     "timeMonth": 1432,
-    "timeYear": 1729,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2023-08-03": 33,
       "2023-07-19": 52,
@@ -67,7 +67,7 @@
     "timeDay": 0,
     "timeWeek": 312,
     "timeMonth": 287,
-    "timeYear": 416,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-08-07": 22,
       "2023-01-24": 249,
@@ -173,7 +173,7 @@
     "timeMonth": 216,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-09-06": 1396,
+      "2023-09-06": 1404,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -469,7 +469,7 @@
     "timeDay": 0,
     "timeWeek": 165,
     "timeMonth": 166,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2022-12-01": 20
     }
@@ -571,7 +571,7 @@
     "timeDay": 9727,
     "timeWeek": 8727,
     "timeMonth": 4940,
-    "timeYear": 4970,
+    "timeYear": 4975,
     "dailyMinutesDown": {
       "2023-09-06": 18,
       "2023-08-12": 31,
@@ -621,7 +621,7 @@
     "timeDay": 0,
     "timeWeek": 181,
     "timeMonth": 1308,
-    "timeYear": 964,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-08-12": 17,
       "2022-12-01": 15
@@ -701,24 +701,24 @@
     "url": "https://thegoodcyclist.iwview.com",
     "icon": "https://icons.duckduckgo.com/ip3/thegoodcyclist.iwview.com.ico",
     "slug": "the-good-cyclist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "55.15%",
-    "uptimeWeek": "68.77%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "55.57%",
+    "uptimeWeek": "68.91%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
-    "time": 2490,
-    "timeDay": 1978,
+    "time": 2489,
+    "timeDay": 1952,
     "timeWeek": 1881,
-    "timeMonth": 1909,
-    "timeYear": 2442,
+    "timeMonth": 1908,
+    "timeYear": 2441,
     "dailyMinutesDown": {
-      "2023-09-06": 608,
+      "2023-09-06": 610,
       "2023-09-05": 595,
       "2023-09-04": 539,
       "2023-09-03": 483,
       "2023-09-02": 651,
-      "2023-09-01": 273
+      "2023-09-01": 256
     }
   },
   {
@@ -738,7 +738,7 @@
     "timeMonth": 0,
     "timeYear": 1982,
     "dailyMinutesDown": {
-      "2023-09-06": 1396,
+      "2023-09-06": 1405,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -1200,8 +1200,8 @@
     "uptime": "53.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.81%",
-    "uptimeYear": "51.99%",
+    "uptimeMonth": "82.82%",
+    "uptimeYear": "52.00%",
     "time": 1994,
     "timeDay": 0,
     "timeWeek": 749,
@@ -1396,24 +1396,24 @@
     "url": "https://www.jeffwithsusan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jeffwithsusan.com.ico",
     "slug": "jeff-with-susan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "48.62%",
-    "uptimeWeek": "58.95%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "99.21%",
-    "time": 1409,
-    "timeDay": 1547,
-    "timeWeek": 1420,
-    "timeMonth": 1543,
+    "uptimeDay": "49.13%",
+    "uptimeWeek": "59.09%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "99.22%",
+    "time": 1408,
+    "timeDay": 1522,
+    "timeWeek": 1404,
+    "timeMonth": 1542,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2023-09-06": 698,
+      "2023-09-06": 699,
       "2023-09-05": 797,
       "2023-09-04": 748,
       "2023-09-03": 667,
       "2023-09-02": 901,
-      "2023-09-01": 329
+      "2023-09-01": 313
     }
   },
   {
@@ -1474,7 +1474,7 @@
     "timeMonth": 295,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-06": 1396,
+      "2023-09-06": 1405,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -1647,7 +1647,7 @@
     "uptime": "87.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.70%",
+    "uptimeMonth": "24.68%",
     "uptimeYear": "85.75%",
     "time": 4801,
     "timeDay": 0,
@@ -1655,7 +1655,7 @@
     "timeMonth": 2484,
     "timeYear": 5067,
     "dailyMinutesDown": {
-      "2023-09-06": 1396,
+      "2023-09-06": 1405,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -1761,8 +1761,8 @@
     "status": "down",
     "uptime": "98.94%",
     "uptimeDay": "11.40%",
-    "uptimeWeek": "34.39%",
-    "uptimeMonth": "84.90%",
+    "uptimeWeek": "34.31%",
+    "uptimeMonth": "84.88%",
     "uptimeYear": "98.74%",
     "time": 2746,
     "timeDay": 2449,
@@ -1770,7 +1770,7 @@
     "timeMonth": 2712,
     "timeYear": 2659,
     "dailyMinutesDown": {
-      "2023-09-06": 1233,
+      "2023-09-06": 1242,
       "2023-09-05": 1029,
       "2023-09-04": 1118,
       "2023-09-03": 1188,
@@ -1795,7 +1795,7 @@
     "timeMonth": 297,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-09-06": 1397,
+      "2023-09-06": 1405,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
