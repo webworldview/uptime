@@ -173,7 +173,8 @@
     "timeMonth": 213,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-09-08": 1436,
+      "2023-09-09": 25,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -524,7 +525,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 742,
     "timeDay": 438,
     "timeWeek": 375,
@@ -532,8 +533,7 @@
     "timeYear": 426,
     "dailyMinutesDown": {
       "2023-08-15": 40,
-      "2022-09-27": 61,
-      "2022-09-09": 1302
+      "2022-09-27": 61
     }
   },
   {
@@ -703,17 +703,18 @@
     "slug": "the-good-cyclist",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "64.78%",
-    "uptimeWeek": "70.36%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "62.71%",
+    "uptimeWeek": "70.06%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "99.43%",
     "time": 2465,
     "timeDay": 2156,
-    "timeWeek": 1921,
+    "timeWeek": 1923,
     "timeMonth": 1926,
     "timeYear": 2417,
     "dailyMinutesDown": {
-      "2023-09-08": 505,
+      "2023-09-09": 26,
+      "2023-09-08": 509,
       "2023-09-07": 543,
       "2023-09-06": 646,
       "2023-09-05": 595,
@@ -727,7 +728,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bible-bunny",
     "status": "down",
-    "uptime": "22.38%",
+    "uptime": "22.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -738,7 +739,8 @@
     "timeMonth": 0,
     "timeYear": 2011,
     "dailyMinutesDown": {
-      "2023-09-08": 1436,
+      "2023-09-09": 26,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1062,8 +1064,7 @@
       "2022-10-15": 0,
       "2022-10-14": 135,
       "2022-09-20": 556,
-      "2022-09-10": 574,
-      "2022-09-09": 1440
+      "2022-09-10": 574
     }
   },
   {
@@ -1198,11 +1199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeffscorner.com.ico",
     "slug": "jeffs-corner",
     "status": "up",
-    "uptime": "54.01%",
+    "uptime": "54.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.47%",
-    "uptimeYear": "52.55%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "52.56%",
     "time": 1992,
     "timeDay": 780,
     "timeWeek": 760,
@@ -1386,8 +1387,7 @@
       "2023-02-09": 17,
       "2022-10-15": 23,
       "2022-09-27": 61,
-      "2022-09-10": 574,
-      "2022-09-09": 1440
+      "2022-09-10": 574
     }
   },
   {
@@ -1397,13 +1397,13 @@
     "slug": "jeff-with-susan",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "39.74%",
+    "uptimeDay": "41.82%",
     "uptimeWeek": "59.17%",
     "uptimeMonth": "90.60%",
     "uptimeYear": "99.22%",
     "time": 1415,
     "timeDay": 1522,
-    "timeWeek": 1406,
+    "timeWeek": 1409,
     "timeMonth": 1542,
     "timeYear": 1448,
     "dailyMinutesDown": {
@@ -1473,7 +1473,8 @@
     "timeMonth": 290,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-09-08": 1436,
+      "2023-09-09": 26,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1645,10 +1646,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.membergenesis.com.ico",
     "slug": "member-genesis",
     "status": "down",
-    "uptime": "87.45%",
+    "uptime": "87.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.03%",
+    "uptimeMonth": "17.96%",
     "uptimeYear": "85.20%",
     "time": 4801,
     "timeDay": 0,
@@ -1656,7 +1657,8 @@
     "timeMonth": 2052,
     "timeYear": 5063,
     "dailyMinutesDown": {
-      "2023-09-08": 1436,
+      "2023-09-09": 26,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1764,8 +1766,8 @@
     "status": "down",
     "uptime": "98.90%",
     "uptimeDay": "25.43%",
-    "uptimeWeek": "31.95%",
-    "uptimeMonth": "84.34%",
+    "uptimeWeek": "31.65%",
+    "uptimeMonth": "84.27%",
     "uptimeYear": "98.69%",
     "time": 2751,
     "timeDay": 2831,
@@ -1773,7 +1775,8 @@
     "timeMonth": 2723,
     "timeYear": 2670,
     "dailyMinutesDown": {
-      "2023-09-08": 1071,
+      "2023-09-09": 26,
+      "2023-09-08": 1074,
       "2023-09-07": 1137,
       "2023-09-06": 1277,
       "2023-09-05": 1029,
@@ -1799,7 +1802,8 @@
     "timeMonth": 291,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 27,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
