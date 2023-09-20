@@ -1,7 +1,7 @@
 url: https://www.citychapel.com.au
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2023-09-19T23:13:26.134Z
+status: down
+code: 502
+responseTime: 85
+lastUpdated: 2023-09-20T07:59:44.091Z
 startTime: 2022-06-30T00:49:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
