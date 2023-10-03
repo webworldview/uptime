@@ -1,7 +1,7 @@
 url: https://www.dragonboattimes.com
-status: up
-code: 200
-responseTime: 2279
-lastUpdated: 2023-10-02T23:16:12.623Z
+status: down
+code: 500
+responseTime: 588
+lastUpdated: 2023-10-03T17:15:49.828Z
 startTime: 2022-07-01T02:57:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
