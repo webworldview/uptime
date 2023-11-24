@@ -175,7 +175,7 @@
     "timeMonth": 156,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-11-24": 690,
+      "2023-11-24": 701,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -651,10 +651,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.learninggoo.com.ico",
     "slug": "learning-goo",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1258,
     "timeDay": 221,
@@ -662,7 +662,6 @@
     "timeMonth": 145,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-11-24": 8,
       "2023-08-12": 17,
       "2022-12-01": 15
     }
@@ -741,18 +740,19 @@
     "url": "https://thegoodcyclist.iwview.com",
     "icon": "https://icons.duckduckgo.com/ip3/thegoodcyclist.iwview.com.ico",
     "slug": "the-good-cyclist",
-    "status": "up",
-    "uptime": "89.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "67.79%",
-    "uptimeMonth": "13.69%",
-    "uptimeYear": "85.49%",
-    "time": 2420,
-    "timeDay": 163,
-    "timeWeek": 1855,
-    "timeMonth": 1207,
-    "timeYear": 2265,
+    "status": "down",
+    "uptime": "89.68%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "67.85%",
+    "uptimeMonth": "13.71%",
+    "uptimeYear": "85.50%",
+    "time": 2421,
+    "timeDay": 2132,
+    "timeWeek": 2104,
+    "timeMonth": 1297,
+    "timeYear": 2266,
     "dailyMinutesDown": {
+      "2023-11-24": 5,
       "2023-11-19": 1057,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -813,7 +813,7 @@
       "2023-09-07": 543,
       "2023-09-06": 646,
       "2023-09-05": 595,
-      "2023-09-04": 293
+      "2023-09-04": 227
     }
   },
   {
@@ -833,7 +833,7 @@
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-11-24": 691,
+      "2023-11-24": 702,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -1532,11 +1532,11 @@
     "url": "https://www.jeffwithsusan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jeffwithsusan.com.ico",
     "slug": "jeff-with-susan",
-    "status": "up",
-    "uptime": "87.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "67.78%",
-    "uptimeMonth": "13.69%",
+    "status": "down",
+    "uptime": "87.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "67.86%",
+    "uptimeMonth": "13.71%",
     "uptimeYear": "83.12%",
     "time": 1426,
     "timeDay": 1145,
@@ -1544,6 +1544,7 @@
     "timeMonth": 1160,
     "timeYear": 1465,
     "dailyMinutesDown": {
+      "2023-11-24": 3,
       "2023-11-19": 1059,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -1609,7 +1610,7 @@
       "2023-09-07": 867,
       "2023-09-06": 727,
       "2023-09-05": 797,
-      "2023-09-04": 592
+      "2023-09-04": 575
     }
   },
   {
@@ -1673,7 +1674,7 @@
     "timeMonth": 301,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-11-24": 691,
+      "2023-11-24": 702,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -1933,7 +1934,7 @@
     "timeMonth": 0,
     "timeYear": 4980,
     "dailyMinutesDown": {
-      "2023-11-24": 691,
+      "2023-11-24": 702,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -2096,18 +2097,19 @@
     "url": "https://www.dragonboattimes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dragonboattimes.com.ico",
     "slug": "dragon-boat-times",
-    "status": "up",
-    "uptime": "97.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "96.18%",
-    "time": 2983,
+    "time": 2967,
     "timeDay": 202,
     "timeWeek": 5456,
     "timeMonth": 5413,
     "timeYear": 3026,
     "dailyMinutesDown": {
+      "2023-11-24": 2,
       "2023-11-18": 55,
       "2023-11-16": 35,
       "2023-11-12": 39,
@@ -2137,7 +2139,7 @@
       "2023-09-07": 1137,
       "2023-09-06": 1277,
       "2023-09-05": 1029,
-      "2023-09-04": 744
+      "2023-09-04": 726
     }
   },
   {
@@ -2157,7 +2159,7 @@
     "timeMonth": 301,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-11-24": 692,
+      "2023-11-24": 703,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
