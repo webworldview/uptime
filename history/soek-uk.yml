@@ -1,7 +1,7 @@
 url: https://soek.co.uk
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 131
-lastUpdated: 2024-01-13T11:08:15.289Z
+lastUpdated: 2024-01-13T11:17:59.318Z
 startTime: 2022-06-30T00:49:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
