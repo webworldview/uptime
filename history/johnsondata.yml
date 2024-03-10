@@ -1,7 +1,7 @@
 url: https://www.johnsondata.com.au
-status: up
-code: 200
-responseTime: 1349
-lastUpdated: 2024-03-09T23:14:36.015Z
+status: down
+code: 500
+responseTime: 1499
+lastUpdated: 2024-03-10T17:18:03.886Z
 startTime: 2022-06-30T00:49:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
